@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Google DSC ITB
 - 🤔 I’m looking for help with my coding skill actually 😵
 - 💬 Ask me about anything 🤪🤪
-- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm an extrovert person
 
