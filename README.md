@@ -4,14 +4,16 @@
 
 
 - 🔭 I’m currently a student in Mulawarman University (Computer Science)
-- 🌱 I’m currently learning Python, Kotlin, Java, and C++ 
+- 🌱 I’m currently learning AI,ML, Data Science and Mobile Programming
+- 📢 I'm speak in Python, Kotlin, Java and C++
 - 👯 I’m looking to collaborate on Google DSC ITB
 - 🤔 I’m looking for help with my coding skill actually 😵
 - 💬 Ask me about anything 🤪🤪
-- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm an extrovert person
+- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- Icons -->
 
