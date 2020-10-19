@@ -8,4 +8,4 @@
 - 💬 Ask me about anything 🤪🤪
 - 📫 How to reach me: [Twitter](@aldionaldion) [Telegram](@piees) [Linkedin](https://www.linkedin.com/in/aldion-sumampouw/)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm Chinese but also indonesian.
+- ⚡ Fun fact: I'm an extrovert person
