@@ -13,8 +13,11 @@
 - ⚡ Fun fact: I'm an extrovert person
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
+<p>
 ![](https://img.shields.io/badge/<OS>-<Arch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+</p>
 
 <!-- Icons -->
 
