@@ -1,13 +1,12 @@
 ![Header](https://raw.githubusercontent.com/dionpouw/dionpouw/main/readme_header.png "Header")
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 🔭 I’m currently a student in Mulawarman University (Computer Science)
-- 🌱 I’m currently learning AI,ML, Data Science and Mobile Programming
-- 📢 I'm speak in Python, Kotlin, Java and C++
-- 👯 I’m looking to collaborate with people that have the same interest with me
-- 🤔 I’m looking for people that have the same interest with me
+- 🔭 I’m currently a student in Mulawarman University majoring in Computer Science
+- 🌱 I have great interest to learn AI, ML, Data Science and Mobile Programming
+- 📢 I speak in Python, Kotlin, Java and C++
+- 👯 I’m looking for partners with same interest to collaborate with
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm an extrovert person
+- ⚡ Fun fact: I'm an extrovert
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 
