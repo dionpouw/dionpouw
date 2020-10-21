@@ -1,8 +1,6 @@
 ![Header](https://raw.githubusercontent.com/dionpouw/dionpouw/main/readme_header.png "Header")
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
 - 🔭 I’m currently a student in Mulawarman University (Computer Science)
 - 🌱 I’m currently learning AI,ML, Data Science and Mobile Programming
 - 📢 I'm speak in Python, Kotlin, Java and C++
