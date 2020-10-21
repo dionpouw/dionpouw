@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning AI,ML, Data Science and Mobile Programming
 - 📢 I'm speak in Python, Kotlin, Java and C++
 - 👯 I’m looking to collaborate with people that have the same interest with me
-- 🤔 I’m looking for help with my coding skill actually 😵
-- 💬 Ask me about anything 🤪🤪
+- 🤔 I’m looking for people that have the same interest with me
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm an extrovert person
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
