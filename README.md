@@ -6,7 +6,7 @@
 - 🔭 I’m currently a student in Mulawarman University (Computer Science)
 - 🌱 I’m currently learning AI,ML, Data Science and Mobile Programming
 - 📢 I'm speak in Python, Kotlin, Java and C++
-- 👯 I’m looking to collaborate on Google DSC ITB
+- 👯 I’m looking to collaborate with people that have the same interest with me
 - 🤔 I’m looking for help with my coding skill actually 😵
 - 💬 Ask me about anything 🤪🤪
 - 😄 Pronouns: He / Him
