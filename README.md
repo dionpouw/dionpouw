@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/dionpouw/dionpouw/main/readme_header.png "Header")
 
-### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, folks! <img src="https://raw.githubusercontent.com/dionpouw/dionpouw/master/wave.gif" width="30px">
 - 🔭 I’m currently a student in Mulawarman University majoring in Computer Science
 - 🌱 I have great interest to learn AI, ML, Data Science and Mobile Programming
 - 📢 I speak in Python, Kotlin, Java and C++
@@ -34,7 +34,7 @@
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/dionpouw/dionpouw/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
