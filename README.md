@@ -2,8 +2,8 @@
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/dionpouw/dionpouw/main/wave.gif" width="30px">
 - 🔭 I’m currently a student in Mulawarman University majoring in Computer Science
-- 🌱 I have great interest to learn AI, ML, Data Science and Mobile Programming
-- 📢 I speak in Python, Kotlin, Java and C++
+- 🌱 I have great interest to learn Mobile Programming
+- 📢 I use Kotlin frequently
 - 👯 I’m looking for partners with same interest to collaborate with
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm an extrovert
